@@ -1,5 +1,6 @@
 # SDCND_Capstone
 Git repository for the team `Final Boost` of SDCND Capstone project
+This is for the real environment; `Carla`
 
 ## Team Members (Slack ID, E-mail)
 **The Lead**
